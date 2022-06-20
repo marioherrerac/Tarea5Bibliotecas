@@ -1,0 +1,7 @@
+textarea {
+    overflow-y: scroll;
+    /* Vertical scrollbar */
+    /*overflow-x: scroll;*/
+    /* Horizontal and vertical scrollbar*/
+    height: 200px;
+}
